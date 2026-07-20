@@ -10,7 +10,7 @@ module apb_slave #(
     parameter DATA_WIDTH = 32
 ) (
     input  logic                    pclk,
-    input  logic                    presetn,
+    input  logic                   presetn,
     input  logic                    psel,
     input  logic                    penable,
     input  logic                    pwrite,
