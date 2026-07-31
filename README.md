@@ -3,6 +3,7 @@
 **Author:** Abhijit Karale
 **Tools used:** SystemVerilog (IEEE 1800-2012), Icarus Verilog 12.0, Python/Matplotlib
 
+
 ## Overview
 An AMBA APB (Advanced Peripheral Bus, APB v2.0) slave peripheral implementing
 the standard SETUP → ACCESS two-phase protocol state machine, with 4
