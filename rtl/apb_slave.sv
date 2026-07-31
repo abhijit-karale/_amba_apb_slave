@@ -19,6 +19,7 @@ module apb_slave #(
     output logic [DATA_WIDTH-1:0]   prdata,
     output logic                    pready,
     output logic                    pslverr
+    
 );
 
     typedef enum logic [1:0] {ST_IDLE, ST_SETUP, ST_ACCESS} apb_state_t;
