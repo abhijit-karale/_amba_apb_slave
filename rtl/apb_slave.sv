@@ -1,4 +1,4 @@
-// -----------------------------------------------------------------------------
+ // -----------------------------------------------------------------------------
 // Module      : apb_slave
 // Description : AMBA APB (v2.0) slave peripheral with 4 memory-mapped
 //               32-bit registers (REG0-REG3). Implements SETUP/ACCESS
