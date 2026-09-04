@@ -3,7 +3,7 @@
  // Description : AMBA APB (v2.0) slave peripheral with 4 memory-mapped
  //               32-bit registers (REG0-REG3). Implements SETUP/ACCESS
  //               APB state machine per AMBA APB protocol specification.
-// Author      : Abhijit Karale
+ // Author      : Abhijit Karale
 // -----------------------------------------------------------------------------
 module apb_slave #(
     parameter ADDR_WIDTH = 8,
