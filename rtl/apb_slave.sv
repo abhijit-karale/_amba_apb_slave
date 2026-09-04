@@ -4,7 +4,7 @@
  //               32-bit registers (REG0-REG3). Implements SETUP/ACCESS
  //               APB state machine per AMBA APB protocol specification.
  // Author      : Abhijit Karale
-// -----------------------------------------------------------------------------
+ // -----------------------------------------------------------------------------
 module apb_slave #(
     parameter ADDR_WIDTH = 8,
     parameter DATA_WIDTH = 32
